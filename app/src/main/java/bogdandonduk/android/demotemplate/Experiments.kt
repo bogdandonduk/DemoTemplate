@@ -5,12 +5,9 @@ import bogdandonduk.androidlibs.userinterfacethemesandroid.UIThemesService
 
 object Experiments {
 
+    var currentDarkTheme = false
 
-//    var currentDarkTheme = true
-//
-//    fun runExperimental(context: Context) {
-//        currentDarkTheme = !currentDarkTheme
-//
-//        UIThemesService.getInstance(context).setDarkTheme(context, currentDarkTheme, null)
-//    }
+    fun runExperimental(context: Context) {
+
+    }
 }

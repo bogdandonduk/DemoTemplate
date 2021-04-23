@@ -33,7 +33,7 @@ android {
 }
 
 dependencies {
-    implementation 'com.github.bogdandonduk:UserInterfaceThemesAndroidLibrary:-SNAPSHOT'
+    implementation 'com.github.bogdandonduk:UserInterfaceThemesAndroidLibrary:0.1.8'
 
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
     implementation 'androidx.core:core-ktx:1.3.2'
